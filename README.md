@@ -1,11 +1,10 @@
 # PMIT - Professional Masters in Information Technology
-
 **Institute of Information Technology (IIT)**  
-**Jahangirnagar University**
+**Jahangirnagar University**  
 
-- **Student Name:** Jalal Uddin Juhan[cite: 3]
-- **Student ID:** 263019[cite: 3]
-- **Batch / Section:** 39th Batch, Section-A (Friday Batch), Fall 2026[cite: 2, 3, 4]
+* **Student Name:** Jalal Uddin Juhan
+* **Student ID:** 263019
+* **Batch / Section:** 39th Batch, Section-A (Friday Batch), Fall 2026
 
 ---
 
@@ -22,4 +21,3 @@ PMIT/
 │   └── PMIT-6307 Data Mining and Knowledge Discovery (FKP/MSR)
 ├── 2nd Trimester/
 └── 3rd Trimester/
-```
