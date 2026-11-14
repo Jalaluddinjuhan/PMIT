@@ -1,4 +1,4 @@
-# PMIT - Professional Masters in Information Technology
+# PMIT - Professional Master's in Information Technology
 **Institute of Information Technology (IIT)**  
 **Jahangirnagar University**  
 
