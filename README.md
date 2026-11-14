@@ -20,4 +20,10 @@ PMIT/
 │   ├── PMIT-6204 Cryptography & Steganography (KMA)
 │   └── PMIT-6307 Data Mining and Knowledge Discovery (FKP/MSR)
 ├── 2nd Trimester/
+│   ├── PMIT-6107 Artificial Intelligence & Neural Network
+│   ├── PMIT-6122 Computational Thinking and Data Science
+│   ├── PMIT-6201 Cloud and Mobile Computing
+│   └── PMIT-6223 IOT and Fog Computing
 └── 3rd Trimester/
+    ├── PMIT-6121 Machine Learning
+    └── PMIT-6311 Human Computer Interaction
